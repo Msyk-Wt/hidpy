@@ -1,0 +1,7 @@
+[project]
+name = "hidpy"
+version = "0.0.0"
+description = "Hit Inv Debugger"
+
+[tool.setuptools]
+include-package-data = true
